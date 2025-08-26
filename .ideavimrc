@@ -225,4 +225,5 @@ xmap <leader>g<C-n> <Plug>AllOccurrences
 nmap <leader>? :WhichKey<CR>
 
 " EasyMotion setup
-map <leader>j <Plug>(easymotion-s)
+map <leader>g <Plug>(easymotion-f)
+map <leader>G <Plug>(easymotion-F)
